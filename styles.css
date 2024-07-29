@@ -83,8 +83,10 @@ label {
 }
 
 ::placeholder {
-    padding: 6px;
+    margin: 10px;
     color: grey;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
 }
 
 #textareafield {
